@@ -9,6 +9,6 @@ class A{
  
  }
 }
-
+int y = 100
 void mul(){
 }
