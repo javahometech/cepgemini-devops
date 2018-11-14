@@ -9,6 +9,9 @@ class A{
  
  }
 }
+
 int y = 100
+int x = 10
+
 void mul(){
 }
